@@ -1,10 +1,10 @@
 <!-- 动态波浪头图 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=zhangyaolong.5&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Friday-Up&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <!-- 打字机效果 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9A9E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +15,8 @@
 
 <!-- 统计卡片 -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhangyaolong.5&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyaolong.5&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friday-Up&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friday-Up&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <!-- 技能徽章 -->
@@ -29,4 +29,4 @@
 </p>
 
 <!-- 页脚波浪 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=120&section=footer" />
