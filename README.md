@@ -1,10 +1,8 @@
 <!-- 动态波浪头图 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday-Up.&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=160&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday-Up.&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<!-- 个性签名 -->
+<!-- 个性签名 + 打字机效果 -->
 <p align="center"><i>Stay curious.</i></p>
-
-<!-- 打字机效果 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9A9E&center=true&vCenter=true&width=435&lines=Agent+Engineer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -13,7 +11,7 @@
 
 <!-- 连续提交记录 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Friday-Up&theme=radical&hide_border=true&background=0D1117&stroke=FF9A9E&ring=FF9A9E&fire=FF9A9E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9A9E&sideLabels=FF9A9E&dates=FFFFFF" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Friday-Up&theme=radical&hide_border=true&background=0D1117&stroke=FF9A9E&ring=FF9A9E&fire=FF9A9E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9A9E&sideLabels=FF9A9E&dates=FFFFFF" />
 </p>
 
 <!-- Agent Engineer 技能标签 -->
@@ -25,4 +23,4 @@
 </p>
 
 <!-- 页脚波浪 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=100&section=footer" />
