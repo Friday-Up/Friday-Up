@@ -11,12 +11,10 @@
   </a>
 </p>
 
-<!-- 贪吃蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake.svg">
-</picture>
+<!-- 连续提交记录 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Friday-Up&theme=radical&hide_border=true&background=0D1117&stroke=FF9A9E&ring=FF9A9E&fire=FF9A9E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9A9E&sideLabels=FF9A9E&dates=FFFFFF" />
+</p>
 
 <!-- Agent Engineer 技能标签 -->
 <p align="center">
