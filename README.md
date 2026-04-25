@@ -2,7 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday-Up.&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <!-- 个性签名 -->
-<p align="center"><i>Stay curious.</i></p>
+<p align="center">
+  <img src="./stay-curious.svg" alt="Stay curious." />
+</p>
 
 <!-- 打字机效果 -->
 <p align="center">
