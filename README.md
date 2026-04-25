@@ -13,12 +13,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
-<!-- 统计卡片 -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Friday-Up&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friday-Up&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
 <!-- 技能徽章 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
