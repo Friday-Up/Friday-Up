@@ -8,10 +8,12 @@
   </a>
 </p>
 
-<!-- 3D 贡献图 -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</p>
+<!-- 贪吃蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Friday-Up/Friday-Up/output/github-snake.svg">
+</picture>
 
 <!-- 页脚波浪 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=120&section=footer" />
