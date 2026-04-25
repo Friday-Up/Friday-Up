@@ -1,10 +1,15 @@
 <!-- 动态波浪头图 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Friday-Up&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
+<!-- 介绍 -->
+<h2 align="center">Hi 👋, I'm Friday-Up.</h2>
+
+<p align="center"><i>Stay curious.</i></p>
+
 <!-- 打字机效果 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9A9E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9A9E&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
