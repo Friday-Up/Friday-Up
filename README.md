@@ -1,5 +1,5 @@
 <!-- 动态波浪头图 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=120&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=120&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- 个性签名 + 打字机效果 -->
 <h2> <p align="center"><font size="7"><b>Stay curious！</b></font></p> </h2>
