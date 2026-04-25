@@ -1,9 +1,7 @@
 <!-- 动态波浪头图 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Friday-Up&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FECFEF&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Friday-Up.&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<!-- 介绍 -->
-<h2 align="center">Hi 👋, I'm Friday-Up.</h2>
-
+<!-- 个性签名 -->
 <p align="center"><i>Stay curious.</i></p>
 
 <!-- 打字机效果 -->
